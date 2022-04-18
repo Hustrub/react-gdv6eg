@@ -1,0 +1,38 @@
+h1, p {
+  font-family: Lato;
+  color: darkviolet
+}
+.head {
+  color: coral;
+  text-align: center;
+}
+.head-s{
+  text-align: center;
+  background-color: beige;
+  margin: 1px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.Data-s h4 {
+  font: bold,  italic;
+  font-size: large;
+}
+ul li {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: darkgrey;
+  align-content: flex-start;
+}
+.Education-s {
+  background-color: honeydew;
+  text-align:left;
+  font-display: unset;
+}
+h5 {
+  font-size: medium;
+  font-family: sans-serif;
+  padding-left: 35px;
+}
+.Education-s p {
+  font: italic;
+  color: blue;
+  margin: 0;
+}
